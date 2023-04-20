@@ -21,7 +21,8 @@ Then comment out FontAwesome script inclusion in _Layout.html file, and retry. R
 
 On my machine the times are like 4,000ms vs 80ms
 
-Update: fixed by disabling FontAwesome mutations observation by placing script
+## Update with fix
+Fixed by disabling FontAwesome mutations observation by placing script
 
 ```javascript
 FontAwesomeConfig = {

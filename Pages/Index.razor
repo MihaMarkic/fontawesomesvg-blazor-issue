@@ -1,0 +1,18 @@
+﻿@page "/"
+
+<button @onclick="@Click">Toggle grid</button>
+
+@if (hasGrid)
+{
+    <TestGrid />
+}
+
+@code {
+    bool hasGrid = true;
+    string? ellapsed;
+
+    void Click(MouseEventArgs args)
+    {
+        hasGrid = !hasGrid;
+    }
+}

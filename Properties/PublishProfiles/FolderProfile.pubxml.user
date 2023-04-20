@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Temp\Blazor\TestLargeSourcesWithGrid\TestLargeSourcesWithGrid\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-04-17T13:19:17.5450379Z;True|2023-04-17T15:11:03.0750979+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
